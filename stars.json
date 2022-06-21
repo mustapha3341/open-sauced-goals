@@ -1,9 +1,9 @@
 [
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 196575,
-    "open_issues_count": 7,
-    "forks_count": 22657
+    "stargazers_count": 196822,
+    "open_issues_count": 11,
+    "forks_count": 22676
   },
   {
     "full_name": "jaredpalmer/awesome-react-render-props",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "afteracademy/nodejs-backend-architecture-typescript",
-    "stargazers_count": 1816,
+    "stargazers_count": 1818,
     "open_issues_count": 23,
-    "forks_count": 443
+    "forks_count": 444
   },
   {
     "full_name": "derhnyel/deBuggy",
@@ -31,25 +31,25 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 144909,
-    "open_issues_count": 243,
-    "forks_count": 13837
+    "stargazers_count": 145588,
+    "open_issues_count": 246,
+    "forks_count": 13897
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 35499,
+    "stargazers_count": 35530,
     "open_issues_count": 6,
-    "forks_count": 2058
+    "forks_count": 2062
   },
   {
     "full_name": "lohanidamodar/flutter_ui_challenges",
-    "stargazers_count": 3750,
+    "stargazers_count": 3755,
     "open_issues_count": 4,
-    "forks_count": 1270
+    "forks_count": 1269
   },
   {
     "full_name": "microsoft/frontend-bootcamp",
-    "stargazers_count": 10565,
+    "stargazers_count": 10569,
     "open_issues_count": 17,
     "forks_count": 1227
   },
@@ -62,7 +62,7 @@
   {
     "full_name": "hoc081098/flutter_validation_login_form_BLoC_pattern_RxDart",
     "stargazers_count": 48,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 9
   }
 ]
