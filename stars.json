@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "bitcoinbook/bitcoinbook",
+    "stargazers_count": 20543,
+    "open_issues_count": 113,
+    "forks_count": 5423
+  },
+  {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 212716,
-    "open_issues_count": 60,
-    "forks_count": 24313
+    "stargazers_count": 212988,
+    "open_issues_count": 62,
+    "forks_count": 24343
   },
   {
     "full_name": "jaredpalmer/awesome-react-render-props",
-    "stargazers_count": 1344,
+    "stargazers_count": 1345,
     "open_issues_count": 5,
     "forks_count": 106
   },
   {
     "full_name": "afteracademy/nodejs-backend-architecture-typescript",
-    "stargazers_count": 1916,
+    "stargazers_count": 1920,
     "open_issues_count": 26,
     "forks_count": 470
   },
@@ -25,31 +31,31 @@
   },
   {
     "full_name": "saranshbht/msc-books",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 21
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 168967,
-    "open_issues_count": 267,
-    "forks_count": 15912
+    "stargazers_count": 169496,
+    "open_issues_count": 266,
+    "forks_count": 15971
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 36154,
+    "stargazers_count": 36177,
     "open_issues_count": 6,
-    "forks_count": 2131
+    "forks_count": 2133
   },
   {
     "full_name": "lohanidamodar/flutter_ui_challenges",
-    "stargazers_count": 3887,
+    "stargazers_count": 3890,
     "open_issues_count": 4,
-    "forks_count": 1303
+    "forks_count": 1301
   },
   {
     "full_name": "microsoft/frontend-bootcamp",
-    "stargazers_count": 10632,
+    "stargazers_count": 10633,
     "open_issues_count": 17,
     "forks_count": 1241
   },
