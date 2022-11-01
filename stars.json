@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "joe-bell/cva",
+    "stargazers_count": 1031,
+    "open_issues_count": 2,
+    "forks_count": 17
+  },
+  {
     "full_name": "bitcoinbook/bitcoinbook",
-    "stargazers_count": 20553,
+    "stargazers_count": 20573,
     "open_issues_count": 113,
-    "forks_count": 5426
+    "forks_count": 5427
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 213233,
-    "open_issues_count": 62,
-    "forks_count": 24387
+    "stargazers_count": 213481,
+    "open_issues_count": 61,
+    "forks_count": 24412
   },
   {
     "full_name": "jaredpalmer/awesome-react-render-props",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "afteracademy/nodejs-backend-architecture-typescript",
-    "stargazers_count": 1919,
+    "stargazers_count": 1924,
     "open_issues_count": 26,
     "forks_count": 471
   },
@@ -37,27 +43,27 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 169796,
-    "open_issues_count": 266,
-    "forks_count": 16008
+    "stargazers_count": 170237,
+    "open_issues_count": 267,
+    "forks_count": 16065
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 36188,
+    "stargazers_count": 36211,
     "open_issues_count": 6,
-    "forks_count": 2135
+    "forks_count": 2138
   },
   {
     "full_name": "lohanidamodar/flutter_ui_challenges",
-    "stargazers_count": 3894,
+    "stargazers_count": 3897,
     "open_issues_count": 4,
     "forks_count": 1303
   },
   {
     "full_name": "microsoft/frontend-bootcamp",
-    "stargazers_count": 10635,
+    "stargazers_count": 10638,
     "open_issues_count": 17,
-    "forks_count": 1239
+    "forks_count": 1240
   },
   {
     "full_name": "Abdulqudus001/Abdulqudus001.github.io",
