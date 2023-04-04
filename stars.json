@@ -1,39 +1,39 @@
 [
   {
     "full_name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-    "stargazers_count": 2646,
-    "open_issues_count": 10,
-    "forks_count": 641
+    "stargazers_count": 2645,
+    "open_issues_count": 12,
+    "forks_count": 643
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 2853,
-    "open_issues_count": 6,
+    "stargazers_count": 2875,
+    "open_issues_count": 1,
     "forks_count": 54
   },
   {
     "full_name": "bitcoinbook/bitcoinbook",
-    "stargazers_count": 21277,
+    "stargazers_count": 21289,
     "open_issues_count": 121,
-    "forks_count": 5573
+    "forks_count": 5577
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 232598,
-    "open_issues_count": 170,
-    "forks_count": 26477
+    "stargazers_count": 233269,
+    "open_issues_count": 174,
+    "forks_count": 26549
   },
   {
     "full_name": "jaredpalmer/awesome-react-render-props",
-    "stargazers_count": 1353,
+    "stargazers_count": 1354,
     "open_issues_count": 5,
     "forks_count": 107
   },
   {
     "full_name": "janishar/nodejs-backend-architecture-typescript",
-    "stargazers_count": 2190,
+    "stargazers_count": 2193,
     "open_issues_count": 11,
-    "forks_count": 517
+    "forks_count": 520
   },
   {
     "full_name": "derhnyel/debuggy",
@@ -45,29 +45,29 @@
     "full_name": "saranshbht/msc-books",
     "stargazers_count": 53,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 35
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 195317,
-    "open_issues_count": 266,
-    "forks_count": 19007
+    "stargazers_count": 196205,
+    "open_issues_count": 267,
+    "forks_count": 19116
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 36801,
+    "stargazers_count": 36823,
     "open_issues_count": 6,
-    "forks_count": 2184
+    "forks_count": 2187
   },
   {
     "full_name": "lohanidamodar/flutter_ui_challenges",
-    "stargazers_count": 4095,
+    "stargazers_count": 4097,
     "open_issues_count": 1,
-    "forks_count": 1342
+    "forks_count": 1343
   },
   {
     "full_name": "microsoft/frontend-bootcamp",
-    "stargazers_count": 10718,
+    "stargazers_count": 10721,
     "open_issues_count": 17,
     "forks_count": 1245
   },
