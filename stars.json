@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "jollyjerr/react-autosave",
+    "stargazers_count": 34,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "samerbuna/efficient-node",
-    "stargazers_count": 492,
+    "stargazers_count": 496,
     "open_issues_count": 0,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "kamranahmedse/design-patterns-for-humans",
-    "stargazers_count": 41036,
+    "stargazers_count": 41059,
     "open_issues_count": 11,
-    "forks_count": 4872
+    "forks_count": 4875
   },
   {
     "full_name": "rauchg/how-is-this-not-illegal",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 2,
     "forks_count": 14
   },
@@ -25,43 +31,43 @@
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11094,
-    "open_issues_count": 18,
+    "stargazers_count": 11116,
+    "open_issues_count": 17,
     "forks_count": 69
   },
   {
     "full_name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-    "stargazers_count": 2701,
+    "stargazers_count": 2708,
     "open_issues_count": 13,
-    "forks_count": 657
+    "forks_count": 658
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 3529,
+    "stargazers_count": 3561,
     "open_issues_count": 0,
-    "forks_count": 67
+    "forks_count": 68
   },
   {
     "full_name": "bitcoinbook/bitcoinbook",
-    "stargazers_count": 21454,
+    "stargazers_count": 21463,
     "open_issues_count": 125,
-    "forks_count": 5615
+    "forks_count": 5629
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 243254,
-    "open_issues_count": 185,
-    "forks_count": 27737
+    "stargazers_count": 244277,
+    "open_issues_count": 186,
+    "forks_count": 27848
   },
   {
     "full_name": "jaredpalmer/awesome-react-render-props",
-    "stargazers_count": 1361,
+    "stargazers_count": 1362,
     "open_issues_count": 5,
     "forks_count": 107
   },
   {
     "full_name": "janishar/nodejs-backend-architecture-typescript",
-    "stargazers_count": 2289,
+    "stargazers_count": 2292,
     "open_issues_count": 11,
     "forks_count": 545
   },
@@ -73,31 +79,31 @@
   },
   {
     "full_name": "saranshbht/msc-books",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 0,
     "forks_count": 42
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 204095,
-    "open_issues_count": 278,
-    "forks_count": 19879
+    "stargazers_count": 204326,
+    "open_issues_count": 279,
+    "forks_count": 19896
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 37779,
+    "stargazers_count": 37795,
     "open_issues_count": 6,
-    "forks_count": 2286
+    "forks_count": 2288
   },
   {
     "full_name": "lohanidamodar/flutter_ui_challenges",
-    "stargazers_count": 4235,
+    "stargazers_count": 4238,
     "open_issues_count": 0,
-    "forks_count": 1369
+    "forks_count": 1371
   },
   {
     "full_name": "microsoft/frontend-bootcamp",
-    "stargazers_count": 10767,
+    "stargazers_count": 10765,
     "open_issues_count": 17,
     "forks_count": 1245
   },
