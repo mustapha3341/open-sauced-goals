@@ -1,9 +1,9 @@
 [
   {
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 27094,
-    "open_issues_count": 611,
-    "forks_count": 2008
+    "stargazers_count": 27136,
+    "open_issues_count": 612,
+    "forks_count": 2010
   },
   {
     "full_name": "ojigs/engagetrk",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "yeojz/otplib",
-    "stargazers_count": 1875,
+    "stargazers_count": 1876,
     "open_issues_count": 85,
     "forks_count": 128
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "kamranahmedse/design-patterns-for-humans",
-    "stargazers_count": 43532,
+    "stargazers_count": 43558,
     "open_issues_count": 11,
-    "forks_count": 5106
+    "forks_count": 5107
   },
   {
     "full_name": "rauchg/how-is-this-not-illegal",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 12260,
+    "stargazers_count": 12263,
     "open_issues_count": 18,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-    "stargazers_count": 3049,
+    "stargazers_count": 3050,
     "open_issues_count": 23,
     "forks_count": 737
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 5281,
+    "stargazers_count": 5289,
     "open_issues_count": 6,
     "forks_count": 102
   },
   {
     "full_name": "bitcoinbook/bitcoinbook",
-    "stargazers_count": 22715,
+    "stargazers_count": 22724,
     "open_issues_count": 150,
-    "forks_count": 5893
+    "forks_count": 5894
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 294150,
-    "open_issues_count": 265,
-    "forks_count": 31988
+    "stargazers_count": 294443,
+    "open_issues_count": 264,
+    "forks_count": 31993
   },
   {
     "full_name": "jaredpalmer/awesome-react-render-props",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "janishar/nodejs-backend-architecture-typescript",
-    "stargazers_count": 2624,
+    "stargazers_count": 2626,
     "open_issues_count": 11,
     "forks_count": 618
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 263505,
+    "stargazers_count": 264790,
     "open_issues_count": 326,
-    "forks_count": 24946
+    "forks_count": 25070
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 40016,
+    "stargazers_count": 40035,
     "open_issues_count": 6,
     "forks_count": 2504
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "microsoft/frontend-bootcamp",
-    "stargazers_count": 10796,
+    "stargazers_count": 10798,
     "open_issues_count": 17,
     "forks_count": 1223
   },
@@ -134,7 +134,7 @@
   {
     "full_name": "hoc081098/flutter_validation_login_form_BLoC_pattern_RxDart",
     "stargazers_count": 49,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 11
   }
 ]
