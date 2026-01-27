@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "LibPDF-js/core",
+    "stargazers_count": 722,
+    "open_issues_count": 1,
+    "forks_count": 19
+  },
+  {
     "full_name": "xyflow/xyflow",
-    "stargazers_count": 34885,
-    "open_issues_count": 115,
-    "forks_count": 2277
+    "stargazers_count": 34956,
+    "open_issues_count": 122,
+    "forks_count": 2280
   },
   {
     "full_name": "hunvreus/basecoat",
-    "stargazers_count": 3503,
+    "stargazers_count": 3545,
     "open_issues_count": 40,
-    "forks_count": 102
+    "forks_count": 104
   },
   {
     "full_name": "NwekeFavour/ecommerce_backend",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "sersavan/shadcn-multi-select-component",
-    "stargazers_count": 2099,
+    "stargazers_count": 2104,
     "open_issues_count": 43,
     "forks_count": 91
   },
   {
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 31422,
-    "open_issues_count": 686,
-    "forks_count": 2229
+    "stargazers_count": 31442,
+    "open_issues_count": 687,
+    "forks_count": 2230
   },
   {
     "full_name": "ojigs/engagetrk",
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "yeojz/otplib",
-    "stargazers_count": 2168,
-    "open_issues_count": 9,
+    "stargazers_count": 2173,
+    "open_issues_count": 7,
     "forks_count": 142
   },
   {
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "kamranahmedse/design-patterns-for-humans",
-    "stargazers_count": 47205,
+    "stargazers_count": 47211,
     "open_issues_count": 17,
-    "forks_count": 5483
+    "forks_count": 5480
   },
   {
     "full_name": "rauchg/how-is-this-not-illegal",
@@ -67,33 +73,33 @@
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 14051,
+    "stargazers_count": 14048,
     "open_issues_count": 33,
     "forks_count": 101
   },
   {
     "full_name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-    "stargazers_count": 3401,
-    "open_issues_count": 4,
-    "forks_count": 819
+    "stargazers_count": 3403,
+    "open_issues_count": 5,
+    "forks_count": 818
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 6726,
+    "stargazers_count": 6734,
     "open_issues_count": 5,
     "forks_count": 131
   },
   {
     "full_name": "bitcoinbook/bitcoinbook",
-    "stargazers_count": 25056,
-    "open_issues_count": 190,
+    "stargazers_count": 25065,
+    "open_issues_count": 193,
     "forks_count": 6225
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 392951,
-    "open_issues_count": 807,
-    "forks_count": 42046
+    "stargazers_count": 393623,
+    "open_issues_count": 806,
+    "forks_count": 42127
   },
   {
     "full_name": "jaredpalmer/awesome-react-render-props",
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "afteracademy/nodejs-backend-architecture-typescript",
-    "stargazers_count": 3039,
+    "stargazers_count": 3040,
     "open_issues_count": 10,
     "forks_count": 704
   },
@@ -117,25 +123,25 @@
     "full_name": "saranshbht/msc-books",
     "stargazers_count": 237,
     "open_issues_count": 0,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 459614,
-    "open_issues_count": 472,
-    "forks_count": 43100
+    "stargazers_count": 460967,
+    "open_issues_count": 469,
+    "forks_count": 43252
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 43931,
+    "stargazers_count": 43950,
     "open_issues_count": 6,
-    "forks_count": 2949
+    "forks_count": 2951
   },
   {
     "full_name": "lohanidamodar/flutter_ui_challenges",
-    "stargazers_count": 4776,
+    "stargazers_count": 4777,
     "open_issues_count": 1,
-    "forks_count": 1411
+    "forks_count": 1410
   },
   {
     "full_name": "microsoft/frontend-bootcamp",
